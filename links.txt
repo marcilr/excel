@@ -1,0 +1,22 @@
+links.txt
+Created Fri Mar 22 14:00:16 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Excel related links
+
+
+Links
+=====
+How to read data from Excel sheet in Linux
+using Shell Script? [closed]
+Some good details here
+https://stackoverflow.com/questions/21686354/how-to-read-data-from-excel-sheet-in-linux-using-shell-script
+
+Reading Excel Files from Linux
+by Diego Oppenheimer, on August 15, 2008
+Today’s author, Chris Rae, a Program Manager
+on the Excel team, talks about using Perl code
+to read Excel’s new file format.
+The OOXML Format
+https://www.microsoft.com/en-us/microsoft-365/blog/2008/08/15/reading-excel-files-from-linux/
