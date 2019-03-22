@@ -19,4 +19,5 @@ Today’s author, Chris Rae, a Program Manager
 on the Excel team, talks about using Perl code
 to read Excel’s new file format.
 The OOXML Format
+Good stuff
 https://www.microsoft.com/en-us/microsoft-365/blog/2008/08/15/reading-excel-files-from-linux/
